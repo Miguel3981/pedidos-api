@@ -6,6 +6,9 @@ Projeto incremental da disciplina **Desenvolvimento de Sistemas Distribuídos** 
 
 | Nome completo | Turma | RA |
 |---|---|---|
+| _Miguel_Cardoso_de_Jesus_| _(preencher)_ | _(preencher)_ |
+| _(preencher)_ | _(preencher)_ | _(preencher)_ |
+| _(preencher)_ | _(preencher)_ | _(preencher)_ |
 | _(preencher)_ | _(preencher)_ | _(preencher)_ |
 
 ## Arquitetura
