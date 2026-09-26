@@ -1,0 +1,30 @@
+services:
+  pedidos:
+    build: .
+    container_name: pedidos-api
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://pedidos:pedidos@postgres:5432/pedidos
+    depends_on:
+      - postgres
+    networks:
+      - pedidos-net
+
+  postgres:
+    image: postgres:16
+    container_name: pedidos-postgres
+    environment:
+      POSTGRES_USER: pedidos
+      POSTGRES_PASSWORD: pedidos
+      POSTGRES_DB: pedidos
+    volumes:
+      - pedidos_data:/var/lib/postgresql/data
+    networks:
+      - pedidos-net
+
+volumes:
+  pedidos_data:
+
+networks:
+  pedidos-net:
