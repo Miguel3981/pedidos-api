@@ -6,10 +6,10 @@ Projeto incremental da disciplina **Desenvolvimento de Sistemas Distribuídos** 
 
 | Nome completo | Turma | RA |
 |---|---|---|
-| _Miguel_Cardoso_de_Jesus_| _(preencher)_ | _(preencher)_ |
-| _(preencher)_ | _(preencher)_ | _(preencher)_ |
-| _(preencher)_ | _(preencher)_ | _(preencher)_ |
-| _(preencher)_ | _(preencher)_ | _(preencher)_ |
+| _Miguel_Cardoso_de_Jesus_| _CC7P13_ | _N497GE6_ |
+| _Ana Vitória Santos Rodrigues_ | _CC7P13_ | _R011DD0_ |
+| _Bianca Souza Almeida_ | _CC7P13_ | _R001EC4_ |
+| _Gabriel Dalcin França_ | _CC7P13_ | _G8599D0_ |
 
 ## Arquitetura
 
